@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1525996477 source:d:\parcial_nmiguenz\parcial\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicacion.h"
+	"cliente.h"
+	"utn.h"
+
+1525996346 d:\parcial_nmiguenz\parcial\publicacion.h
+	"cliente.h"
+
+1525971160 d:\parcial_nmiguenz\parcial\utn.h
+
+1525971164 source:d:\parcial_nmiguenz\parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1525996354 d:\parcial_nmiguenz\parcial\cliente.h
+
+1525995963 source:d:\parcial_nmiguenz\parcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"publicacion.h"
+
+1525996699 source:d:\parcial_nmiguenz\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"utn.h"
+
